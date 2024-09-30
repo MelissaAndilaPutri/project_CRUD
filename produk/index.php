@@ -10,7 +10,7 @@ include('../includes/header.php');
  <th>No</th>
  <th>Nama Produk</th>
  <th>Deskripsi</th>
-<th>Harga</th> 
+<th>Harga</th>
 <th>Aksi</th>
  </tr>
  </thead>
