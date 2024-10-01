@@ -43,27 +43,18 @@ data-bs-toggle="dropdown" aria-expanded="false">
  Master
  </a>
  <ul class="dropdown-menu">
- <li><a class="dropdown-item" href="../produk/index.php">
-Produk</a></li>
+ <li><a class="dropdown-item" href="../produk/index.php">Produk</a></li>
+ <li><a class="dropdown-item" href="../customer/customer.php">Data</a></li>
  </ul>
  </li>
  <li class="nav-item dropdown">
  <a class="nav-link dropdown-toggle" href="#" role="button" 
 data-bs-toggle="dropdown" aria-expanded="false">
-Customer
- </a>
- <ul class="dropdown-menu">
- <li><a class="dropdown-item" href="../customer/customer.php">
- data</a></li>
- </ul>
- </li>
- <li class="nav-item dropdown">
- <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  Laporan
  </a>
  <ul class="dropdown-menu">
- <li><a class="dropdown-item" href="../laporan/produk.php">
-Laporan Produk</a></li> 
+ <li><a class="dropdown-item" href="../laporan/produk.php"> laporan produk</a></li>
+ <li><a class="dropdown-item" href="../laporan/laporan_customer.php"> laporan customer</a></li>
  </ul>
  </li>
  </ul>
